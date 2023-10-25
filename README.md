@@ -1,4 +1,4 @@
-# Olá, Escreva Seu Nome!
+# Bem-vindo! Me chamo Lucas Konzen, FullStack developer
 
 ### ⚙️ GitHub Analytics
 
