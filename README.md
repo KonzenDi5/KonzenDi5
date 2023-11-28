@@ -1,4 +1,4 @@
-# Bem-vindo! Me chamo Lucas Konzen, FullStack developer
+# Welcome, my name is Lucas, FullStack developer
 
 ---
 
