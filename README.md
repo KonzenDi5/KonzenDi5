@@ -1,4 +1,4 @@
-# Welcome, my name is Lucas, FullStack developer
+# Welcome, my name is Lucas, Software Engineer
 
 ---
 
